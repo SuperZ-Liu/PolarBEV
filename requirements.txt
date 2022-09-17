@@ -1,0 +1,15 @@
+efficientnet_pytorch==0.7.1
+fvcore==0.1.5.post20220119
+lyft_dataset_sdk==0.0.8
+matplotlib==3.5.1
+numpy==1.21.2
+nuscenes_devkit==1.1.9
+opencv_python==4.5.5.62
+Pillow==9.2.0
+pyquaternion==0.9.9
+pytorch_lightning==1.2.5
+scipy==1.7.3
+torch==1.8.0
+torchmetrics==0.7.0
+torchvision==0.9.0
+tqdm==4.62.3
