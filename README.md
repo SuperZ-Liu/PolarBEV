@@ -56,7 +56,7 @@ python train.py --config polarbev/configs/single_timeframe.yml DATASET.DATAROOT 
 To run with different input resolution, you can change the flags 
 ```IMAGE.FINAL_DIM``` and ```IMAGE.RESIZE_SCALE``` to different values.
 #
-## Evalation
+## Evaluation
 Run
 ```
 python evaluate.py --checkpoint ${CHECKPOINT_PATH} --dataroot ${NUSCENES_DATAROOT}
